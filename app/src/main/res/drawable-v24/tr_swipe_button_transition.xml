@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_swipe_button_main_container_before_swipe"/>
+    <item android:drawable="@drawable/bg_swipe_button_main_container_after_swipe"/>
+</transition>

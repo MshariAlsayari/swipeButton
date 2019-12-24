@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SwipeButton">
+        <attr name="textBefore" format="string" />
+        <attr name="textBeforeColor" format="color" />
+        <attr name="textBeforeSize" format="integer" />
+        <attr name="textAfter" format="string" />
+        <attr name="textAfterColor" format="color" />
+        <attr name="textAfterSize" format="integer" />
+        <attr name="unEnabledSwipeButtonColor" format="color" />
+        <attr name="progressBackgroundColor" format="reference" />
+        <attr name="swipeButtonBackgroundColor" format="reference" />
+        <attr name="swipeButtonImageDrawable" format="reference" />
+        <attr name="mainContainerBackground" format="reference" />
+        <attr name="enabled" format="boolean" />
+    </declare-styleable>
+</resources>
